@@ -1,0 +1,1132 @@
+[
+    {
+      "Company": "TechWorld",
+      "Item": "Teclado Mecânico RGB",
+      "price": 320.42,
+      "description": "Um teclado de alta performance com iluminação personalizável."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Mouse Gamer",
+      "price": 188.81,
+      "description": "Mouse com sensor de alta precisão e botões programáveis."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Monitor 27'' Full HD",
+      "price": 1200.18,
+      "description": "Tela ampla e de alta resolução para garantir a melhor experiência visual."
+    },
+    {
+      "Company": "ByteStore",
+      "Item": "Headset com Microfone",
+      "price": 250.73,
+      "description": "Som de alta qualidade e cancelamento de ruído."
+    },
+    {
+      "Company": "ByteStore",
+      "Item": "Webcam Full HD",
+      "price": 374.48,
+      "description": "Câmera de alta resolução para chamadas de vídeo com ótima qualidade."
+    },
+    {
+      "Company": "ByteStore",
+      "Item": "SSD 512GB NVMe",
+      "price": 548.59,
+      "description": "Velocidade e eficiência para seu computador."
+    },
+    {
+      "Company": "NetCenter",
+      "Item": "Roteador Wi-Fi Dual Band",
+      "price": 430.34,
+      "description": "Internet rápida e estável para toda a casa."
+    },
+    {
+      "Company": "NetCenter",
+      "Item": "Switch Gigabit 8 Portas",
+      "price": 305.05,
+      "description": "Ideal para expandir sua rede com alta velocidade."
+    },
+    {
+      "Company": "NetCenter",
+      "Item": "Placa de Rede PCIe Gigabit",
+      "price": 126.26,
+      "description": "Adicione conectividade de rede de alta velocidade ao seu computador."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Gabinete Gamer",
+      "price": 443.32,
+      "description": "Gabinete com design moderno e excelente ventilação."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Fonte 600W 80 Plus Bronze",
+      "price": 501.18,
+      "description": "Energia eficiente e estável para seu PC."
+    },
+    {
+      "Company": "TechShop",
+      "Item": "Memória RAM 16GB DDR4",
+      "price": 349.91,
+      "description": "Desempenho e velocidade para seu computador."
+    },
+    {
+      "Company": "TechShop",
+      "Item": "Processador Intel Core i5",
+      "price": 1247.46,
+      "description": "Poder de processamento para as tarefas do dia a dia."
+    },
+    {
+      "Company": "GamerHouse",
+      "Item": "Placa de Vídeo GTX 1660",
+      "price": 2142.44,
+      "description": "Desempenho gráfico incrível para jogos e design."
+    },
+    {
+      "Company": "GamerHouse",
+      "Item": "Mousepad Gamer XL",
+      "price": 62.22,
+      "description": "Superfície ampla e confortável para suas partidas."
+    },
+    {
+      "Company": "CableLink",
+      "Item": "Cabo HDMI 2.0 2m",
+      "price": 85.95,
+      "description": "Transmissão de áudio e vídeo em alta qualidade."
+    },
+    {
+      "Company": "CableLink",
+      "Item": "Cabo de Rede Cat6 5m",
+      "price": 34.22,
+      "description": "Conexão de rede rápida e estável."
+    },
+    {
+      "Company": "CableLink",
+      "Item": "Adaptador USB para HDMI",
+      "price": 139.01,
+      "description": "Converta a saída USB em HDMI para monitores e TVs."
+    },
+    {
+      "Company": "PrinterStore",
+      "Item": "Impressora Multifuncional",
+      "price": 743.48,
+      "description": "Imprima, digitalize e copie com facilidade."
+    },
+    {
+      "Company": "PrinterStore",
+      "Item": "Toner HP 85A",
+      "price": 430.25,
+      "description": "Toner original para impressões de alta qualidade."
+    },
+    {
+      "Company": "LaptopCenter",
+      "Item": "Notebook Dell i7",
+      "price": 4388.44,
+      "description": "Desempenho para trabalho e entretenimento."
+    },
+    {
+      "Company": "LaptopCenter",
+      "Item": "Carregador Universal de Notebook",
+      "price": 150.67,
+      "description": "Compatível com várias marcas e modelos."
+    },
+    {
+      "Company": "LaptopCenter",
+      "Item": "Docking Station",
+      "price": 1188.33,
+      "description": "Expanda a conectividade do seu notebook."
+    },
+    {
+      "Company": "PCExpert",
+      "Item": "Kit Teclado e Mouse Sem Fio",
+      "price": 256.33,
+      "description": "Conjunto prático e sem cabos para seu computador."
+    },
+    {
+      "Company": "PCExpert",
+      "Item": "Cooler para CPU",
+      "price": 205.05,
+      "description": "Mantenha seu processador em temperatura ideal."
+    },
+  
+    {
+      "Company": "InfoStore",
+      "Item": "Teclado Mecânico RGB",
+      "price": 350.99,
+      "description": "Teclado mecânico com iluminação RGB e switches de alta qualidade."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Mouse Gamer",
+      "price": 199.90,
+      "description": "Mouse com sensor de alta precisão e botões programáveis."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Roteador Dual-Band AC1200",
+      "price": 299.00,
+      "description": "Roteador de alta velocidade com alcance estendido para toda a casa."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Monitor Full HD 24\"",
+      "price": 849.99,
+      "description": "Monitor com resolução Full HD e taxa de atualização de 75Hz."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Cadeira Gamer",
+      "price": 1199.00,
+      "description": "Cadeira ergonômica com ajuste de altura e reclinação."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Switch Gigabit 8 Portas",
+      "price": 159.00,
+      "description": "Switch com 8 portas Gigabit para conexões rápidas e estáveis."
+    },
+    {
+      "Company": "TechStore",
+      "Item": "HD Externo 1TB",
+      "price": 349.90,
+      "description": "Armazenamento portátil de alta capacidade e conexão USB 3.0."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Fonte de Alimentação 600W",
+      "price": 289.00,
+      "description": "Fonte de alimentação com certificação 80 PLUS Bronze."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Memória RAM 16GB DDR4",
+      "price": 599.99,
+      "description": "Memória DDR4 de 16GB com frequência de 3200MHz."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Headset Gamer",
+      "price": 249.90,
+      "description": "Headset com som surround 7.1 e microfone removível."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "SSD 512GB NVMe",
+      "price": 599.00,
+      "description": "SSD ultrarrápido com tecnologia NVMe para alta performance."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Adaptador Wi-Fi USB",
+      "price": 79.90,
+      "description": "Adaptador Wi-Fi compacto para conexão sem fio em PCs e notebooks."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Mousepad Gamer XL",
+      "price": 99.90,
+      "description": "Mousepad de grande superfície com base antiderrapante."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Gabinete ATX com LED",
+      "price": 399.00,
+      "description": "Gabinete espaçoso com painel lateral transparente e iluminação LED."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Kit de Ventoinhas RGB",
+      "price": 199.00,
+      "description": "Conjunto de ventoinhas com iluminação RGB controlável."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Placa de Vídeo GTX 1660",
+      "price": 1999.00,
+      "description": "Placa de vídeo potente para jogos e edição de vídeo."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Cabo de Rede CAT6 10m",
+      "price": 59.90,
+      "description": "Cabo de rede de alta velocidade com 10 metros de comprimento."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Nobreak 1200VA",
+      "price": 499.00,
+      "description": "Nobreak com proteção contra quedas de energia e surtos elétricos."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Processador Intel Core i5",
+      "price": 1299.00,
+      "description": "Processador de 10ª geração com 6 núcleos e 12 threads."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Controle Bluetooth para PC",
+      "price": 179.90,
+      "description": "Controle sem fio com suporte para jogos de PC e smartphones."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Webcam Full HD",
+      "price": 249.90,
+      "description": "Webcam com resolução Full HD e microfone embutido."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Antena Wi-Fi Direcional",
+      "price": 149.90,
+      "description": "Antena para amplificar o sinal Wi-Fi e melhorar a conexão."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Teclado sem fio",
+      "price": 129.90,
+      "description": "Teclado compacto e sem fio com conexão via Bluetooth."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Placa-Mãe ATX",
+      "price": 699.00,
+      "description": "Placa-mãe compatível com processadores Intel de 10ª geração."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Base Refrigerada para Notebook",
+      "price": 99.90,
+      "description": "Base com ventoinhas para manter seu notebook resfriado."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Impressora Multifuncional",
+      "price": 499.00,
+      "description": "Impressora com funções de impressão, digitalização e cópia."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Servidor NAS 2 Baias",
+      "price": 1599.00,
+      "description": "Servidor de armazenamento em rede com suporte para 2 HDs."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Pen Drive 64GB USB 3.0",
+      "price": 59.90,
+      "description": "Pen Drive de alta velocidade com 64GB de capacidade."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Placa de Captura HDMI",
+      "price": 299.00,
+      "description": "Placa de captura para gravar vídeos em alta definição."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Volante para Jogos",
+      "price": 799.90,
+      "description": "Volante com pedais e câmbio para jogos de corrida."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Adaptador USB-C para HDMI",
+      "price": 79.90,
+      "description": "Adaptador para conectar dispositivos USB-C a monitores HDMI."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Modem ADSL2+",
+      "price": 129.90,
+      "description": "Modem de alta velocidade para conexão ADSL2+."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Cabo HDMI 4K 2m",
+      "price": 49.90,
+      "description": "Cabo HDMI com suporte para resolução 4K e 2 metros de comprimento."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Water Cooler 240mm",
+      "price": 499.00,
+      "description": "Sistema de resfriamento líquido para processadores."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Controle Arcade",
+      "price": 349.90,
+      "description": "Controle estilo arcade para jogos de luta e arcade."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Leitor de Cartões USB",
+      "price": 39.90,
+      "description": "Leitor de cartões compatível com diversos tipos de cartões de memória."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Repetidor de Sinal Wi-Fi",
+      "price": 159.90,
+      "description": "Repetidor de sinal para ampliar o alcance do Wi-Fi."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Bateria Externa 10.000mAh",
+      "price": 99.90,
+      "description": "Bateria externa para recarregar dispositivos em qualquer lugar."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Scanner Portátil",
+      "price": 299.90,
+      "description": "Scanner portátil para digitalização de documentos em qualquer lugar."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Mochila para Notebook",
+      "price": 149.90,
+      "description": "Mochila resistente com compartimento acolchoado para notebook de até 15.6\"."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Hub USB 4 Portas",
+      "price": 49.90,
+      "description": "Hub USB compacto com 4 portas para conectar múltiplos dispositivos."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Teclado Semi-Mecânico",
+      "price": 199.00,
+      "description": "Teclado com sensação mecânica e retroiluminação."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Powerline Ethernet",
+      "price": 299.90,
+      "description": "Adaptador que utiliza a rede elétrica para ampliar a conexão de internet."
+    },
+    {
+      "Company": "TechStore",
+      "Item": "Microfone Condensador USB",
+      "price": 399.90,
+      "description": "Microfone USB de alta qualidade para gravações e streaming."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Cartão de Memória 128GB",
+      "price": 99.90,
+      "description": "Cartão microSD de 128GB com adaptador."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Mouse Wireless",
+      "price": 69.90,
+      "description": "Mouse sem fio com design ergonômico e conexão via Bluetooth."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Controle de Ventoinha RGB",
+      "price": 89.90,
+      "description": "Controlador para sincronizar a iluminação RGB das ventoinhas do gabinete."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Extensor de Alcance Wi-Fi",
+      "price": 189.00,
+      "description": "Extensor para ampliar o sinal Wi-Fi em sua casa."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Smartwatch",
+      "price": 299.90,
+      "description": "Relógio inteligente com monitoramento de saúde e notificações."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Cabo USB-C 1m",
+      "price": 29.90,
+      "description": "Cabo USB-C de alta velocidade para carregamento e transferência de dados."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "No-Break 2200VA",
+      "price": 899.00,
+      "description": "No-break de alta potência para proteger equipamentos eletrônicos."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Kit Teclado e Mouse",
+      "price": 179.00,
+      "description": "Kit com teclado e mouse com iluminação LED."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Cabo VGA 5m",
+      "price": 49.90,
+      "description": "Cabo VGA de 5 metros para monitores e projetores."
+    },
+    {
+      "Company": "TechStore",
+      "Item": "Teclado Numérico USB",
+      "price": 39.90,
+      "description": "Teclado numérico compacto para facilitar a digitação de números."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Dock Station para Notebook",
+      "price": 399.90,
+      "description": "Dock station com múltiplas portas de conexão para notebooks."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Ventoinha 120mm",
+      "price": 49.90,
+      "description": "Ventoinha para resfriamento de gabinete com iluminação LED."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Gamepad USB",
+      "price": 99.90,
+      "description": "Gamepad com conexão USB para jogos no PC."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Antena 4G Externa",
+      "price": 129.90,
+      "description": "Antena externa para melhorar o sinal 4G em áreas remotas."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Adaptador VGA para HDMI",
+      "price": 69.90,
+      "description": "Adaptador para conectar dispositivos VGA a monitores HDMI."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Cabo USB 3.0 2m",
+      "price": 29.90,
+      "description": "Cabo USB 3.0 para transferência rápida de dados."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Estabilizador 500VA",
+      "price": 199.00,
+      "description": "Estabilizador para proteger seus equipamentos contra variações de energia."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Mouse Bungee",
+      "price": 59.90,
+      "description": "Suporte para organizar o cabo do mouse e evitar embaraços."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Mini Switch 5 Portas",
+      "price": 99.90,
+      "description": "Mini switch com 5 portas Ethernet para conexões rápidas."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Leitor de Cartão SD",
+      "price": 29.90,
+      "description": "Leitor de cartão SD com conexão USB."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Filtro de Linha 6 Tomadas",
+      "price": 39.90,
+      "description": "Filtro de linha com 6 tomadas e proteção contra surtos."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Placa de Rede PCIe",
+      "price": 79.90,
+      "description": "Placa de rede PCIe Gigabit para desktops."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Cabos de Extensão para Ventoinhas",
+      "price": 19.90,
+      "description": "Cabos de extensão para ventoinhas com conector de 3 e 4 pinos."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Conector RJ45 CAT6",
+      "price": 9.90,
+      "description": "Conector RJ45 para cabos de rede CAT6."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Câmera de Segurança Wi-Fi",
+      "price": 399.90,
+      "description": "Câmera de segurança com visão noturna e conexão Wi-Fi para monitoramento remoto."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "HD Externo 2TB",
+      "price": 499.90,
+      "description": "HD externo portátil com capacidade de 2TB e conexão USB 3.0."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Adaptador Bluetooth USB",
+      "price": 49.90,
+      "description": "Adaptador USB para adicionar conectividade Bluetooth ao seu computador."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Kit Ventoinhas RGB",
+      "price": 179.00,
+      "description": "Kit com três ventoinhas RGB e controlador para personalizar seu gabinete."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Roteador Dual Band",
+      "price": 299.90,
+      "description": "Roteador com tecnologia dual-band e alta velocidade para conexões Wi-Fi."
+    },
+    {
+      "Company": "TechStore",
+      "Item": "Pen Drive 256GB",
+      "price": 149.90,
+      "description": "Pen drive de alta capacidade com conexão USB 3.1."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Suporte Articulado para Monitor",
+      "price": 199.90,
+      "description": "Suporte ajustável para monitores de até 32 polegadas."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Leitor Biométrico",
+      "price": 349.90,
+      "description": "Leitor de impressões digitais para maior segurança no login do seu computador."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Controle Joystick para PC",
+      "price": 129.90,
+      "description": "Controle joystick USB compatível com a maioria dos jogos de PC."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Switch Gigabit 8 Portas",
+      "price": 249.90,
+      "description": "Switch com 8 portas Gigabit para ampliar a rede de sua casa ou escritório."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "SSD 1TB NVMe",
+      "price": 699.90,
+      "description": "SSD de alta velocidade com interface NVMe e capacidade de 1TB."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Teclado Ergonômico",
+      "price": 249.90,
+      "description": "Teclado com design ergonômico para maior conforto durante o uso."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Fonte de Alimentação 750W",
+      "price": 499.90,
+      "description": "Fonte de alimentação modular com potência de 750W e certificação 80 PLUS Gold."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Cadeira Gamer",
+      "price": 1299.90,
+      "description": "Cadeira com design ergonômico e ajuste de altura para maior conforto durante os jogos."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Modem 4G",
+      "price": 349.90,
+      "description": "Modem 4G desbloqueado para uso com diferentes operadoras."
+    },
+    {
+      "Company": "TechStore",
+      "Item": "Mouse Pad com Carregador Wireless",
+      "price": 89.90,
+      "description": "Mouse pad com carregador sem fio integrado para smartphones."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Adaptador HDMI para VGA",
+      "price": 59.90,
+      "description": "Adaptador para conectar dispositivos HDMI a monitores VGA."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Placa Mãe ATX",
+      "price": 899.90,
+      "description": "Placa-mãe com chipset Z490 compatível com processadores Intel."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Fone de Ouvido Intra-Auricular",
+      "price": 99.90,
+      "description": "Fone de ouvido intra-auricular com isolamento de ruído."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Antena Wi-Fi USB",
+      "price": 79.90,
+      "description": "Antena Wi-Fi USB de alta potência para melhorar o sinal de internet."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Projetor Portátil",
+      "price": 1299.90,
+      "description": "Projetor portátil com resolução Full HD e conexão HDMI."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Mouse Vertical",
+      "price": 149.90,
+      "description": "Mouse com design vertical para evitar lesões por esforço repetitivo."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Kit Ferramentas para Manutenção",
+      "price": 99.90,
+      "description": "Kit com ferramentas essenciais para manutenção de computadores."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Tapete para Cadeira Gamer",
+      "price": 199.90,
+      "description": "Tapete para proteger o piso e facilitar o movimento da cadeira gamer."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Cabos Organizadores",
+      "price": 19.90,
+      "description": "Kit com organizadores de cabos para manter a área de trabalho arrumada."
+    },
+    {
+      "Company": "TechStore",
+      "Item": "Docking Station para HD",
+      "price": 299.90,
+      "description": "Docking station para conectar e clonar discos rígidos."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Cabo HDMI 4K 3m",
+      "price": 49.90,
+      "description": "Cabo HDMI com suporte a resolução 4K e 3 metros de comprimento."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Caixa de Som Bluetooth",
+      "price": 199.90,
+      "description": "Caixa de som portátil com conexão Bluetooth e bateria recarregável."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Cabo Extensor USB",
+      "price": 29.90,
+      "description": "Cabo extensor USB 3.0 de 2 metros para aumentar o alcance dos dispositivos."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Repetidor de Sinal Wi-Fi",
+      "price": 149.90,
+      "description": "Repetidor de sinal para ampliar a cobertura Wi-Fi em ambientes maiores."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Tablet 10 Polegadas",
+      "price": 999.90,
+      "description": "Tablet com tela de 10 polegadas, 64GB de armazenamento e Android."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "HD Externo 4TB",
+      "price": 799.90,
+      "description": "HD externo com capacidade de 4TB e conexão USB 3.0."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Conversor USB para Serial",
+      "price": 59.90,
+      "description": "Adaptador USB para serial RS232."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Tapete RGB para Mouse",
+      "price": 99.90,
+      "description": "Tapete para mouse com iluminação RGB personalizável."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Carregador Portátil 20.000mAh",
+      "price": 149.90,
+      "description": "Carregador portátil de alta capacidade com duas portas USB."
+    },
+    {
+      "Company": "TechStore",
+      "Item": "Leitor de Cartão MicroSD",
+      "price": 29.90,
+      "description": "Leitor de cartão microSD com conexão USB 3.0."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Adaptador USB-C para HDMI",
+      "price": 99.90,
+      "description": "Adaptador que permite conectar dispositivos USB-C a monitores HDMI."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Estação de Solda",
+      "price": 349.90,
+      "description": "Estação de solda com controle de temperatura para reparos eletrônicos."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Controlador de Iluminação RGB",
+      "price": 119.90,
+      "description": "Controlador com controle remoto para personalizar a iluminação do gabinete."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Adaptador de Rede USB",
+      "price": 59.90,
+      "description": "Adaptador para adicionar conectividade Ethernet a dispositivos sem porta de rede."
+    },
+    {
+      "Company": "TechWorld",
+      "Item": "Monitor 27 Polegadas 4K",
+      "price": 1799.90,
+      "description": "Monitor de 27 polegadas com resolução 4K e suporte a HDR."
+    },
+    {
+      "Company": "InfoStore",
+      "Item": "Hub USB 3.0 com 4 Portas",
+      "price": 89.90,
+      "description": "Hub USB 3.0 com 4 portas para conectar vários dispositivos."
+    },
+    {
+      "Company": "PCMaster",
+      "Item": "Impressora Multifuncional",
+      "price": 899.90,
+      "description": "Impressora multifuncional com scanner, cópia e impressão sem fio."
+    },
+    {
+      "Company": "GamerPro",
+      "Item": "Lâmpada Smart RGB",
+      "price": 79.90,
+      "description": "Lâmpada LED com controle via aplicativo e cores RGB."
+    },
+    {
+      "Company": "NetSolutions",
+      "Item": "Filtro de Linha com Proteção",
+      "price": 49.90,
+      "description": "Filtro de linha com proteção contra surtos de energia."
+    },
+    {
+          "Company": "InfoStore",
+          "Item": "Fone de Ouvido Bluetooth",
+          "price": 149.90,
+          "description": "Fone de ouvido sem fio com conexão Bluetooth e alta qualidade de som."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Teclado Mecânico RGB",
+          "price": 299.90,
+          "description": "Teclado mecânico com iluminação RGB personalizável e switches duráveis."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Mouse Gamer",
+          "price": 79.90,
+          "description": "Mouse gamer com sensor de alta precisão e botões programáveis."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "HD Externo 1TB",
+          "price": 350.00,
+          "description": "HD externo portátil com 1TB de capacidade para backup e armazenamento de dados."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Monitor LED 24 polegadas",
+          "price": 749.99,
+          "description": "Monitor LED Full HD de 24 polegadas com entrada HDMI e tempo de resposta rápido."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Adaptador USB para Ethernet",
+          "price": 59.90,
+          "description": "Adaptador que permite conectar seu dispositivo à rede via cabo Ethernet."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Cabo HDMI 2.0 de 2 metros",
+          "price": 34.90,
+          "description": "Cabo HDMI de alta velocidade compatível com 4K e 3D."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Carregador Portátil 10.000mAh",
+          "price": 120.00,
+          "description": "Carregador portátil de alta capacidade para recarregar dispositivos móveis."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Webcam Full HD",
+          "price": 189.90,
+          "description": "Webcam com resolução Full HD e microfone embutido para chamadas de vídeo."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Leitor de Cartão de Memória",
+          "price": 29.90,
+          "description": "Leitor de cartão compatível com diversos tipos de cartões de memória."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "SSD 256GB",
+          "price": 299.90,
+          "description": "SSD de 256GB para melhorar a velocidade e o desempenho do seu computador."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Adaptador Bluetooth USB",
+          "price": 49.90,
+          "description": "Adaptador Bluetooth para conectar dispositivos sem fio ao seu computador."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Hub USB 3.0 com 4 Portas",
+          "price": 89.90,
+          "description": "Hub USB 3.0 com 4 portas para conectar vários dispositivos."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Cabo de Rede Ethernet 5 metros",
+          "price": 45.00,
+          "description": "Cabo de rede Ethernet de 5 metros para conexão de alta velocidade."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Estabilizador de Energia",
+          "price": 199.90,
+          "description": "Estabilizador de energia com proteção contra surtos e oscilações."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Caixa de Som Bluetooth",
+          "price": 159.90,
+          "description": "Caixa de som portátil com conexão Bluetooth e alta qualidade de áudio."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Teclado Numérico USB",
+          "price": 39.90,
+          "description": "Teclado numérico USB para facilitar a digitação de números."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Suporte para Notebook",
+          "price": 99.90,
+          "description": "Suporte ajustável para notebook, ideal para melhorar a ergonomia."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Carregador Veicular USB",
+          "price": 49.90,
+          "description": "Carregador veicular com duas portas USB para recarregar dispositivos no carro."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Pen Drive 64GB",
+          "price": 79.90,
+          "description": "Pen Drive de 64GB com alta velocidade de transferência de dados."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Roteador Wi-Fi Dual Band",
+          "price": 229.90,
+          "description": "Roteador Wi-Fi Dual Band com alcance de até 100m e 4 portas Ethernet."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Mouse Pad Gamer RGB",
+          "price": 79.90,
+          "description": "Mouse pad com iluminação RGB e superfície ideal para precisão nos movimentos."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Filtro de Linha com 6 Tomadas",
+          "price": 49.90,
+          "description": "Filtro de linha com 6 tomadas e proteção contra surtos elétricos."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Cooler para Notebook",
+          "price": 99.90,
+          "description": "Cooler com 5 ventoinhas para resfriar o notebook durante o uso intenso."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "HDMI Switch 3 Portas",
+          "price": 129.90,
+          "description": "Switch HDMI com 3 entradas para conectar vários dispositivos a uma tela."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Placa de Vídeo 4GB",
+          "price": 1099.90,
+          "description": "Placa de vídeo com 4GB de memória para melhorar o desempenho gráfico."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Tablet 10.1 Polegadas",
+          "price": 699.90,
+          "description": "Tablet com tela de 10.1 polegadas, ideal para entretenimento e trabalho."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Conversor VGA para HDMI",
+          "price": 89.90,
+          "description": "Conversor que transforma o sinal VGA em HDMI com saída de áudio."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Réplica de Mini Teclado Bluetooth",
+          "price": 59.90,
+          "description": "Mini teclado com conexão Bluetooth para uso em diversos dispositivos."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Smartwatch à Prova d'Água",
+          "price": 299.90,
+          "description": "Relógio inteligente resistente à água com várias funções de monitoramento."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Extensor de Sinal Wi-Fi",
+          "price": 159.90,
+          "description": "Extensor de sinal Wi-Fi para aumentar a cobertura da rede sem fio."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Antena Digital Interna",
+          "price": 89.90,
+          "description": "Antena digital interna com alcance de até 50km para recepção de sinal."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Balança Digital para Cozinha",
+          "price": 49.90,
+          "description": "Balança digital de alta precisão para pesar ingredientes na cozinha."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Câmera de Segurança IP",
+          "price": 249.90,
+          "description": "Câmera de segurança IP com visão noturna e detecção de movimento."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Suporte Articulado para TV",
+          "price": 139.90,
+          "description": "Suporte articulado para TV de até 55 polegadas, com ajuste de inclinação."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Controle para Smart TV",
+          "price": 59.90,
+          "description": "Controle remoto universal compatível com várias marcas de Smart TVs."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Protetor de Tela para Notebook 15.6\"",
+          "price": 49.90,
+          "description": "Protetor de tela de alta qualidade para notebooks de 15.6 polegadas."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Estação Meteorológica Digital",
+          "price": 199.90,
+          "description": "Estação meteorológica digital com previsão do tempo e sensor de temperatura."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Pen Drive 128GB",
+          "price": 129.90,
+          "description": "Pen drive com 128GB de armazenamento e conexão USB 3.0."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Carregador sem Fio Qi",
+          "price": 79.90,
+          "description": "Carregador sem fio compatível com dispositivos com tecnologia Qi."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Fonte Universal para Notebook",
+          "price": 119.90,
+          "description": "Fonte de alimentação universal para notebooks, com múltiplas voltagens."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Cabo Lightning para iPhone",
+          "price": 69.90,
+          "description": "Cabo Lightning para iPhone com 1 metro de comprimento e carregamento rápido."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Adaptador USB-C para HDMI",
+          "price": 109.90,
+          "description": "Adaptador que permite conectar dispositivos USB-C a uma entrada HDMI."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Impressora Multifuncional",
+          "price": 599.90,
+          "description": "Impressora multifuncional com funções de impressão, digitalização e cópia."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Réplica de Mini Caixa de Som Bluetooth",
+          "price": 39.90,
+          "description": "Caixa de som Bluetooth em miniatura, ideal para levar a qualquer lugar."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Luminária de Mesa LED",
+          "price": 89.90,
+          "description": "Luminária de mesa com luz LED ajustável e carregamento USB."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Filtro de Privacidade para Monitor",
+          "price": 99.90,
+          "description": "Filtro que impede a visualização lateral da tela do monitor."
+      },
+      {
+          "Company": "TechWorld",
+          "Item": "Leitor Biométrico USB",
+          "price": 199.90,
+          "description": "Leitor biométrico USB para autenticação segura de usuários."
+      },
+      {
+          "Company": "InfoStore",
+          "Item": "Notebook 15.6\" com SSD 256GB",
+          "price": 2999.90,
+          "description": "Notebook com tela de 15.6 polegadas, processador Intel e SSD de 256GB."
+      },
+      {
+          "Company": "Eletronic Shop",
+          "Item": "Roteador Wi-Fi Mesh",
+          "price": 499.90,
+          "description": "Sistema de roteador Wi-Fi Mesh para cobertura de sinal em toda a casa."
+      }
+  ]
+  
